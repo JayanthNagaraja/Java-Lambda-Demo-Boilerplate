@@ -3,7 +3,7 @@ Boilerplate code for Java lambda creation example.
 
 The uploaded code serves as a boilerplate to create applications in Java and deploy them on AWS Lambda.
 
-##Steps to create AWS lambda function and upload code
+## Steps to create AWS lambda function and upload code
 1. Go to AWS Console → Lambda → Create Function
 
 2. Choose:
@@ -22,7 +22,7 @@ The uploaded code serves as a boilerplate to create applications in Java and dep
 	
 6. Save and Deploy.
 
-##Steps to test the created Lambda function in AWS console
+## Steps to test the created Lambda function in AWS console
 1. From AWS Console, Go to your function
 
 2. Click "Test"
